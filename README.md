@@ -58,7 +58,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-###############################################################################################################
+
 # Project 2 - *Flix_Demo*
 
 **Flix_Demo** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
