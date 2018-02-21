@@ -43,21 +43,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 - Xcode ver. 9 require 1024x1024 Apple Stores App Icon
 
-## License
-
-    Copyright [2018] [E.0]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
 
 # Project 2 - *Flix_Demo*
 
@@ -102,21 +87,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-## License
-
-    Copyright [2018] [E.O]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
     
  # Lab 3 - *Filx_Demo*
 
@@ -130,16 +100,17 @@ The following **required** user stories are complete:
 
 - The following screens use AutoLayout to adapt to various orientations and screen sizes
    - [x] Movie feed view (+3pt)
-   - [ ] Detail view (+2pt)
+   - [x] Detail view (+2pt) **[Updated: Wed., Feb. 21, 2018]**
 
 The following **stretch** user stories are implemented:
 
 - [ ] Dynamic Height Cells (+1)
-- [ ] Collection View AutoLayout (+2)
+- [x] Collection View AutoLayout (+2) **[Updated: Wed., Feb. 21, 2018]**
 
 The following **additional** user stories are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] LauchScreen AutoLayout **[Updated: Wed., Feb. 21, 2018]**
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -150,7 +121,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ucPM6hi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/kSXA4MF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
