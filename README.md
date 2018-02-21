@@ -100,16 +100,17 @@ The following **required** user stories are complete:
 
 - The following screens use AutoLayout to adapt to various orientations and screen sizes
    - [x] Movie feed view (+3pt)
-   - [x] Detail view (+2pt) **[Updated: Wed., Feb. 21, 2018**
+   - [x] Detail view (+2pt) **[Updated: Wed., Feb. 21, 2018]**
 
 The following **stretch** user stories are implemented:
 
 - [ ] Dynamic Height Cells (+1)
-- [x] Collection View AutoLayout (+2) **[Updated: Wed., Feb. 21, 2018**
+- [x] Collection View AutoLayout (+2) **[Updated: Wed., Feb. 21, 2018]**
 
 The following **additional** user stories are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] LauchScreen AutoLayout **[Updated: Wed., Feb. 21, 2018]**
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
