@@ -31,6 +31,7 @@ class SuperheroViewController: UIViewController, UICollectionViewDataSource {
 
     }
     
+    
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return movies.count
     }
