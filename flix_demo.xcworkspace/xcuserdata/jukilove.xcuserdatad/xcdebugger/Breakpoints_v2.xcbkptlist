@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "flix_demo/ViewControllers/NowPlayingViewController.swift"
-            timestampString = "540937595.103194"
+            timestampString = "541912001.329239"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "NowPlayingViewController"
             landmarkType = "3">
          </BreakpointContent>
